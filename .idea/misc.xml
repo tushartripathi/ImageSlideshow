@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.16822916666666668" />
+        <entry key="imageslider/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.17592592592592593" />
+        <entry key="imageslider/src/main/res/drawable/ic_baseline_mode_comment_24.xml" value="0.17592592592592593" />
+        <entry key="imageslider/src/main/res/drawable/ic_baseline_share_24.xml" value="0.17592592592592593" />
         <entry key="imageslider/src/main/res/layout/image_slider.xml" value="0.16822916666666668" />
         <entry key="imageslider/src/main/res/layout/pager_row.xml" value="0.16822916666666668" />
       </map>
